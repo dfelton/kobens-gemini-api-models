@@ -1,0 +1,13 @@
+{
+    "name": "kobens/gemini-api-models",
+    "description": "Rest and Websocket Api models correlating to api.gemini.com",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Kobens\\GeminiApiModels\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
